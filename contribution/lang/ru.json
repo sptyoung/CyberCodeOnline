@@ -7423,4 +7423,17 @@
  	 	 	"eng": "You have successfully sent an emblem to player \"${playerName}\""
  	 	}
  	}
+       {
+"Settings": {
+"Rules": {
+"Addendum": {
+ "trans": "Дополнение",
+"eng": "Addendum"
+}
+"trans": "Пожалуйста, имейте в виду, что команда модераторов может выдать ограничение на общение в чате или бан в особых случаях с целью предоставления вам безопасного, дружелюбного и честного пользовательского общения. Наша команда модераторов будет совместно работать для достижения сплоенных выводов в этих ситуациях .",
+"eng":  "Please keep in mind that the moderation team may issue mutes or bans on special cases with the goal of providing you a safe, friendly and fair user experience. Our moderation team will work together to reach cohesive conclusions to these cases.
+}
+}
+}
+
 }
